@@ -28,7 +28,7 @@ public class PhrasesActivity extends AppCompatActivity{
         words.add(new Words("Let's go.", "Wǒmen zǒu ba. - 我们走吧"));
         words.add(new Words ("Come here", "Guòlái. - 过来"));
 
-        Wordsadapter adapter = new Wordsadapter(this, words);
+        Wordsadapter adapter = new Wordsadapter(this, words, R.color.category_phrases);
 
         ListView listView = (ListView) findViewById(R.id.list);
 

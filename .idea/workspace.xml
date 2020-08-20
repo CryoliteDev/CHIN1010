@@ -6,180 +6,33 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="warn" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f2b933d-bee3-42dc-8e98-c59c375bcce9" name="Default Changelist" comment="numberactivity works">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_dusty_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_mustard_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/color_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_daughter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_father.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_grandfather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_grandmother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_mother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_older_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_older_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_son.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_younger_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/family_younger_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/number_two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_dusty_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_mustard_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/color_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_daughter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_father.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_grandfather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_grandmother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_mother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_older_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_older_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_son.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_younger_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/family_younger_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/number_two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_dusty_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_mustard_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/color_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_daughter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_father.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_grandfather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_grandmother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_mother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_older_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_older_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_son.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_younger_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/family_younger_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/number_two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_dusty_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_mustard_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/color_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_daughter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_father.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_grandfather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_grandmother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_mother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_older_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_older_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_son.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_younger_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/family_younger_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/number_two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_dusty_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_mustard_yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/color_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_daughter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_father.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_grandfather.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_grandmother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_mother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_older_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_older_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_son.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_younger_brother.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/family_younger_sister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_eight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_five.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_nine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_seven.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_six.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_ten.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/drawable-mdpi/number_two.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects-CHIN1010.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHIN1010.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/ColorsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/ColorsActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/FamilyActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/FamilyActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/NumbersActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/NumbersActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/PhrasesActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/PhrasesActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/Words.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/Words.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/Wordsadapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/chin1010/Wordsadapter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/word_list.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/word_list.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="LGH87230fca528" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -227,7 +80,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="device.picker.selection" value="LGH87230fca528" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -316,35 +169,55 @@
     <option name="LAST_COMMIT_MESSAGE" value="numberactivity works" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="765" y="305" key="#com.intellij.ide.util.MemberChooser" timestamp="1597935660320">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="305" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597935660320" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597942379375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597942379375" />
     <state x="-670" y="-268" key="FileChooserDialogImpl" timestamp="1595887403299">
       <screen x="-900" y="-412" width="900" height="1600" />
     </state>
     <state x="-670" y="-268" key="FileChooserDialogImpl/0.0.1920.1080/-900.-412.900.1600@-900.-412.900.1600" timestamp="1595887403299" />
-    <state width="854" height="202" key="GridCell.Tab.0.bottom" timestamp="1596500087568">
-      <screen x="-900" y="-412" width="900" height="1600" />
+    <state width="1874" height="335" key="GridCell.Tab.0.bottom" timestamp="1597941650482">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="854" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1080/-900.-412.900.1600@-900.-412.900.1600" timestamp="1596500087568" />
-    <state width="854" height="202" key="GridCell.Tab.0.center" timestamp="1596500087568">
-      <screen x="-900" y="-412" width="900" height="1600" />
+    <state width="1874" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597941650482" />
+    <state width="1874" height="335" key="GridCell.Tab.0.center" timestamp="1597941650481">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="854" height="202" key="GridCell.Tab.0.center/0.0.1920.1080/-900.-412.900.1600@-900.-412.900.1600" timestamp="1596500087568" />
-    <state width="854" height="202" key="GridCell.Tab.0.left" timestamp="1596500087568">
-      <screen x="-900" y="-412" width="900" height="1600" />
+    <state width="1874" height="335" key="GridCell.Tab.0.center/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597941650481" />
+    <state width="1874" height="335" key="GridCell.Tab.0.left" timestamp="1597941650481">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="854" height="202" key="GridCell.Tab.0.left/0.0.1920.1080/-900.-412.900.1600@-900.-412.900.1600" timestamp="1596500087568" />
-    <state width="854" height="202" key="GridCell.Tab.0.right" timestamp="1596500087568">
-      <screen x="-900" y="-412" width="900" height="1600" />
+    <state width="1874" height="335" key="GridCell.Tab.0.left/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597941650481" />
+    <state width="1874" height="335" key="GridCell.Tab.0.right" timestamp="1597941650481">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="854" height="202" key="GridCell.Tab.0.right/0.0.1920.1080/-900.-412.900.1600@-900.-412.900.1600" timestamp="1596500087568" />
+    <state width="1874" height="335" key="GridCell.Tab.0.right/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597941650481" />
+    <state x="461" y="246" key="SettingsEditor" timestamp="1597934745153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="246" key="SettingsEditor/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597934745153" />
     <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1597359015298">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597359015298" />
-    <state x="656" y="428" key="com.intellij.ide.util.TipDialog" timestamp="1596987174989">
+    <state x="656" y="428" key="com.intellij.ide.util.TipDialog" timestamp="1597934696603">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-607" y="222" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-900.-412.900.1600@-900.-412.900.1600" timestamp="1596976686835" />
-    <state x="656" y="428" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1596987174989" />
+    <state x="656" y="428" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597934696603" />
+    <state x="222" y="303" width="1934" height="965" key="dock-window-1" timestamp="1597940138499">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="222" y="303" width="1934" height="965" key="dock-window-1/0.0.1920.1080/-900.-412.900.1600@0.0.1920.1080" timestamp="1597940138499" />
     <state x="623" y="332" width="672" height="678" key="search.everywhere.popup" timestamp="1596976732677">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

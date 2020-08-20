@@ -18,21 +18,20 @@ public class ColorsActivity extends AppCompatActivity {
         ArrayList<Words> words = new ArrayList<Words>();
 
         //adds words to the arraylist
-        words.add(new Words("Pink", "Fěn - 粉"));
-        words.add(new Words("Red", "Hóng - 红"));
-        words.add(new Words("Purple", "Zǐsè - 紫色"));
-        words.add(new Words("Blue", "Lán sè - 蓝色"));
-        words.add(new Words ("Green", "Lǜsè - 绿色"));
-        words.add(new Words("Black", "Hēisè - 黑色"));
-        words.add(new Words("Grey", "Huīsè - 灰色"));
-        words.add(new Words ("Navy", "Hǎijūn - 海军"));
-        words.add(new Words("Orange", "Chéngzi - 橙子"));
-        words.add(new Words ("Brown", "Zōngsè - 棕色"));
+        words.add(new Words("Red", "Hóng - 红", R.drawable.color_red));
+        words.add(new Words("Mustard Yellow", "Jièmò huángsè - 芥末黄色",  R.drawable.color_mustard_yellow));
+        words.add(new Words("Dusty Yellow", "Chéntǔ fēiyáng de huángsè - \n 尘土飞扬的黄色", R.drawable.color_dusty_yellow));
+        words.add(new Words ("Green", "Lǜsè - 绿色", R.drawable.color_green));
+        words.add(new Words ("Brown", "Zōngsè - 棕色", R.drawable.color_brown));
+        words.add(new Words("Gray", "Huīsè - 灰色", R.drawable.color_gray));
+        words.add(new Words("Black", "Hēisè - 黑色", R.drawable.color_black));
+        words.add(new Words("White", "Báisè - 白色", R.drawable.color_white));
 
-        Wordsadapter adapter = new Wordsadapter(this, words);
+
+
+        Wordsadapter adapter = new Wordsadapter(this, words, R.color.category_colors);
 
         ListView listView = (ListView) findViewById(R.id.list);
-
         listView.setAdapter(adapter);
     }
 
