@@ -20,28 +20,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name = ".ColorsActivity"
-            android:label = "Colors"
-            android:autoRemoveFromRecents="true"
-            android:parentActivityName=".MainActivity" />
-        <activity
-            android:name = ".FamilyActivity"
-            android:label = "Family"
-            android:autoRemoveFromRecents="true"
-            android:parentActivityName=".MainActivity" />
-        <activity
-            android:name = ".NumbersActivity"
-            android:label = "Numbers"
-            android:autoRemoveFromRecents="true"
-            android:parentActivityName=".MainActivity" />
-        <activity
-            android:name = ".PhrasesActivity"
-            android:label = "Phrases"
-            android:autoRemoveFromRecents="true"
-            android:parentActivityName=".MainActivity" >
-        </activity>
-
     </application>
 
 </manifest>
