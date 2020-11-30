@@ -1,13 +1,19 @@
 package com.example.chin1010;
 
+import android.content.Context;
+
+import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
 public class CategoryAdapter extends FragmentPagerAdapter {
 
-    public CategoryAdapter(FragmentManager fragmentManager) {
+    private Context mContext;
+
+    public CategoryAdapter(Context context, FragmentManager fragmentManager) {
         super(fragmentManager);
+        mContext = context;
     }
 
     @Override
@@ -27,6 +33,19 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     @Override
     public int getCount() {
         return 4;
+    }
+
+    @Override
+    public CharSequence getPageTitle(int position) {
+        if (position == 0) {
+            return mContext.getString(R.string.category_numbers);
+        } else if (position == 1) {
+            return mContext.getString(R.string.category_family);
+        } else if (position == 2) {
+            return mContext.getString(R.string.category_colors);
+        }  else {
+            return mContext.getString(R.string.category_phrases);
+        }
     }
 }
 
