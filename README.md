@@ -4,8 +4,8 @@ The CHIN1010 app shows the English to Chinese translations for Numbers, Family M
 
 ## Screenshots 
 
-![](readmeFiles/numberSC.png) ![](readmeFiles/colorsSC.png) ![](readmeFiles/familySC.png) ![](readmeFiles/appSRgif.gif)
-
+<img src="readmeFiles/numberSC.png" width="180" height="330"> <img src="readmeFiles/colorsSC.png" width="180" height="330">
+<img src="readmeFiles/familySC.png" width="180" height="330"> <img src="readmeFiles/appSRgif.gif" width="180" height="330">
 
 ## Developer 
 
